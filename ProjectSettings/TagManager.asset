@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - End
+  - Obstacle
+  - Acorn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1472753917
+    locked: 0
+  - name: BG2
+    uniqueID: 1673192377
+    locked: 0
+  - name: FG
+    uniqueID: 3663881401
+    locked: 0
+  - name: PlayerStuff
+    uniqueID: 2472098871
+    locked: 0
+  - name: Player
+    uniqueID: 2989371005
+    locked: 0
